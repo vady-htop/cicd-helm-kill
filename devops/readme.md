@@ -96,7 +96,7 @@ $ helm upgrade --install ctd ./ctd/
 Create CNAME for the app which points to EXTERNAL-IP of traefik
 
 ## CI/CD arrchitecture.
-![test](https://raw.githubusercontent.com/vady-htop/coding-task-devops/master/images/CICD.jpg?token=ANZE4QBVSQP4H55FRZEYH426KKXOM)
+![Acrhitecture Diagram](https://github.com/vady-htop/coding-task-devops/blob/master/images/CICD.jpg)
 
 ### Deploy Keel 
 
