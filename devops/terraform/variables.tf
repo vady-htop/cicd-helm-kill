@@ -15,7 +15,7 @@ variable "cluster-name" {
 
 
 variable "InstanceType" {
-     default = "t3.micro"
+     default = ["t3.micro"]
 }
 
 
@@ -39,10 +39,10 @@ variable "dnsHostNames" {
 
 
 variable "access_key" {
-     default = "PLACE YOUR AWS KEY HERE"
+     default = "AKIAJAEHVFNRYMZA3PWA"
 }
 
 
 variable "secret_key" {
-     default = "PLACE YOUR AWS SECRET"
+     default = "iNWkpGtBrWSPN7+75b7AjILeTJVbRz2J1cwPflei"
 }
