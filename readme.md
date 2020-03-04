@@ -27,8 +27,8 @@ Before starting make sure you have installed following packages.
 ### Provisioning AWS infrasructure.
 Clone the repo and initiate terraform:
 ```sh
-$ git clone https://github.com/vady-htop/coding-task-devops.git
-$ cd coding-task-devops/devops/terraform/
+$ git clone https://github.com/vady-htop/cicd-helm-kill.git
+$ cd cicd-helm-kill/devops/terraform/
 $ terraform init
 ```
 
